@@ -1,0 +1,15 @@
+# Ignore the large image dataset
+leapGestRecog/
+archive*/
+*.zip
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+.env                
+
